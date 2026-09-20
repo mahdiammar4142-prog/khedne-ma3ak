@@ -1,0 +1,232 @@
+Copy these per-place fields into each PlaceModel in places_repository.dart
+
+// 1 - Roadster Diner
+googlePlaceId: 'ChIJ9b1y6uUWHxURQIbTmgj5aBY',
+latitude: 33.8842794,
+longitude: 35.4845502,
+
+// 2 - Enab Beirut
+googlePlaceId: 'ChIJ70DpcAAXHxURhUpvX2d7fAE',
+latitude: 33.89628,
+longitude: 35.4830166,
+
+// 3 - Le Bristol Pool
+googlePlaceId: 'ChIJCcJ-pS4XHxURShraMn1iSzs',
+latitude: 33.8918781,
+longitude: 35.4841716,
+
+// 4 - Mövenpick Beirut
+googlePlaceId: 'ChIJ-6DxGs4QHxURdPDk4vgzKQc',
+latitude: 33.8857687,
+longitude: 35.4737268,
+
+// 5 - Tawlet
+googlePlaceId: 'ChIJce06s_wWHxURx6VIUSLRIcg',
+latitude: 33.8971962,
+longitude: 35.5258826,
+
+// 6 - Abd El Wahab
+googlePlaceId: 'ChIJs8V0ox0XHxURUdC05dqpUjk',
+latitude: 33.8879379,
+longitude: 35.50787,
+
+// 7 - Sushi Art
+googlePlaceId: 'ChIJRQ5DD4MXHxURXnkJ2zVghes',
+latitude: 33.8967325,
+longitude: 35.4789077,
+
+// 8 - Burger Boutique
+googlePlaceId: 'ChIJQdHTTAAXHxURko_g0BU-UUM',
+latitude: 33.8813837,
+longitude: 35.4904411,
+
+// 9 - Cafe Younes
+googlePlaceId: 'ChIJ86iBGisXHxURzLqyb7bi3_M',
+latitude: 33.8948427,
+longitude: 35.4793224,
+
+// 10 - Urbanista
+googlePlaceId: 'ChIJO14kVgQXHxURwTBpMCoOZYU',
+latitude: 33.8949276,
+longitude: 35.5132727,
+
+// 11 - The Grand Factory
+googlePlaceId: 'ChIJW4aXm2oWHxURyiUdsR6vEUI',
+latitude: 33.899648,
+longitude: 35.5419267,
+
+// 12 - Hanna Mitri
+googlePlaceId: 'ChIJVR3K2fgWHxURDuqfFbU5VB4',
+latitude: 33.8879322,
+longitude: 35.5253087,
+
+// 13 - Paul Beirut
+googlePlaceId: 'ChIJVXKXYzEXHxURgUlZZ-9wq1Q',
+latitude: 33.8842816,
+longitude: 35.4842761,
+
+// 14 - Four Seasons Hotel Beirut
+googlePlaceId: 'ChIJU5J0ON0WHxUR_IElrMUKX8I',
+latitude: 33.9016795,
+longitude: 35.4990035,
+
+// 15 - Le Gray Beirut
+googlePlaceId: 'ChIJu248kpcXHxURYcQ35d-H8ws',
+latitude: 33.8972396,
+longitude: 35.5067343,
+
+// 16 - Saifi Suites
+googlePlaceId: 'ChIJPyaYvuQWHxURpgvYgEcRH8k',
+latitude: 33.8945287,
+longitude: 35.5099475,
+
+// 17 - O1NE Beach
+googlePlaceId: 'ChIJw_sI9tAQHxUR3YY4tj_YbXk',
+latitude: 33.8945625,
+longitude: 35.4684375,
+
+// 18 - Lazy B
+googlePlaceId: 'ChIJYRHesg_jHhURBnF74Ys5jjM',
+latitude: 33.6822752,
+longitude: 35.4184256,
+
+// 19 - Ramlet El Bayda Beach
+googlePlaceId: 'ChIJB7cJYTUXHxURypMZRaiSn4c',
+latitude: 33.8793167,
+longitude: 35.4797888,
+
+// 20 - The Ballroom Blitz
+googlePlaceId: 'ChIJAxNlRMYXHxURpYNLkbeNAG8',
+latitude: 33.8974056,
+longitude: 35.5425367,
+
+// 21 - Central
+googlePlaceId: 'ChIJf6j7SSoXHxURQuKMcxNYdsw',
+latitude: 33.8962787,
+longitude: 35.4830274,
+
+// 22 - Horsh Beirut
+googlePlaceId: 'ChIJHVtYjxIXHxURKdkgnaEyDw8',
+latitude: 33.8711577,
+longitude: 35.5103596,
+
+// 23 - Corniche Beirut
+googlePlaceId: 'ChIJj6eAWCEXHxURBNFjSoTbjb0',
+latitude: 33.9028089,
+longitude: 35.4799209,
+
+// 24 - ABC Mall Verdun
+googlePlaceId: 'ChIJ6V3H3zMXHxURdGPTb_SXZ0c',
+latitude: 33.8842794,
+longitude: 35.4845502,
+
+// 25 - Saifi Village
+googlePlaceId: 'ChIJbYKWn-MWHxURL_7yAYtq5_k',
+latitude: 33.8930088,
+longitude: 35.5082064,
+
+// 26 - Souk El Tayeb
+googlePlaceId: 'ChIJj6eAWCEXHxURHTC5TCXIuKc',
+latitude: 33.8776807,
+longitude: 35.5292532,
+
+// 27 - Babel Bay
+googlePlaceId: 'ChIJObA-68IWHxURwcMnpIBhzhM',
+latitude: 33.9036123,
+longitude: 35.498728,
+
+// 28 - T-Marbouta
+googlePlaceId: 'ChIJL3r2LyoXHxURVrzwgnK5DcY',
+latitude: 33.8957819,
+longitude: 35.4829984,
+
+// 29 - Merchak
+googlePlaceId: 'ChIJg5P8y7FYHxURZmIfGfPKoTc',
+latitude: 34.2557869,
+longitude: 35.6612079,
+
+// 30 - Sip Cafe
+googlePlaceId: 'ChIJ065IKPsWHxUR1M4n8-bdnRg',
+latitude: 33.8951613,
+longitude: 35.5152216,
+
+// 31 - Kalei Coffee Co.
+googlePlaceId: 'ChIJwVPmc3QRHxURgoI0Rbfx3ww',
+latitude: 33.8976643,
+longitude: 35.4754381,
+
+// 32 - Hallab 1881
+googlePlaceId: 'ChIJzyczXKn2IRURg-7kkKYHQ6A',
+latitude: 34.4373034,
+longitude: 35.8338548,
+
+// 33 - Amel Bohsali
+googlePlaceId: 'ChIJRWWlDy0XHxURmcDTZMssd8g',
+latitude: 33.8905481,
+longitude: 35.4805706,
+
+// 34 - InterContinental Phoenicia
+googlePlaceId: 'ChIJJ9a-fdwWHxURAismjJA2xAQ',
+latitude: 33.9007222,
+longitude: 35.4949682,
+
+// 35 - Byblos Sur Mer
+googlePlaceId: 'ChIJoeJH1FVDHxURGWOqBWDP7Ns',
+latitude: 34.1100116,
+longitude: 35.6519155,
+
+// 36 - Edde Sands
+googlePlaceId: 'ChIJf8W2MqtcHxURvgKZSFN2teg',
+latitude: 34.1156916,
+longitude: 35.6482942,
+
+// 37 - Pierre & Friends Beach
+googlePlaceId: 'ChIJLaG_dMpeHxURJecLsSmprHA',
+latitude: 34.2124129,
+longitude: 35.6494349,
+
+// 38 - Abo Waseem
+googlePlaceId: 'ChIJmUYi2FvpHhURj3T8tKmBIG4',
+latitude: 33.8966714,
+longitude: 35.5320514,
+
+// 39 - Ixsir Garden
+googlePlaceId: 'ChIJe4qt_DZZHxURfbIluWSBr4M',
+latitude: 34.2366598,
+longitude: 35.7069526,
+
+// 40 - Jeita Grotto
+googlePlaceId: 'ChIJj6eAWCEXHxUReJuUYhKo8D0',
+latitude: 33.9436631,
+longitude: 35.64085800000001,
+
+// 41 - Barouk Cedar Reserve
+googlePlaceId: 'ChIJ8eJrSl8mHxUR9r2JjBd6y38',
+latitude: 33.6851488,
+longitude: 35.6982969,
+
+// 42 - City Centre Beirut
+googlePlaceId: 'ChIJ48qfhJgXHxUR4VzTMY3Ptww',
+latitude: 33.8631064,
+longitude: 35.5293644,
+
+// 43 - Tripoli Souks
+googlePlaceId: 'ChIJwZi8NTD3IRUR5hSeoVC28O4',
+latitude: 34.4362997,
+longitude: 35.8430389,
+
+// 44 - ATCL Club
+googlePlaceId: 'ChIJHSyDZI1AHxURBY9-fhLe0T8',
+latitude: 33.986393,
+longitude: 35.618362,
+
+// 45 - Mzaar Kfardebian
+googlePlaceId: 'ChIJG3TIPRZMHxURLm2TuFziQdg',
+latitude: 33.9927724,
+longitude: 35.84327469999999,
+
+// 46 - Escalade Indoor Climbing
+googlePlaceId: 'ChIJmyptprwXHxURDbywtva_n78',
+latitude: 33.8646581,
+longitude: 35.528353,
+
